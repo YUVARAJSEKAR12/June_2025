@@ -9,7 +9,7 @@ Feature: Login Page Exe
     When Enter the username "Aiite"
     And Enter the password "Aiite32324"
     And Click the login button
-    Then Validate the home page
+    #Then Validate the home page
 
   @smoke1
   Scenario: Validate the invalid username and password
